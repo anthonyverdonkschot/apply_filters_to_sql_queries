@@ -8,6 +8,8 @@ Several suspicious login attempts occurred within the organization. My superviso
 
 > Output from each SQL query is shortened for brevity.
 
+> The scenario of this project is fictitious.
+
 ## Retrieve after hours failed login attempts
 
 A potential security incident occurred after business hours (18:00). 
