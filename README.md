@@ -10,6 +10,18 @@ Several suspicious login attempts occurred within the organization. My superviso
 
 > The scenario of this project is fictitious.
 
+**Table of Contents**
+
+- [Apply Filters to SQL Queries](#apply-filters-to-sql-queries)
+   * [Project scenario](#project-scenario)
+   * [Retrieve after hours failed login attempts](#retrieve-after-hours-failed-login-attempts)
+   * [Retrieve login attempts on specific dates](#retrieve-login-attempts-on-specific-dates)
+   * [Retrieve login attempts outside of Mexico](#retrieve-login-attempts-outside-of-mexico)
+   * [Retrieve employees in Marketing](#retrieve-employees-in-marketing)
+   * [Retrieve employees in Finance or Sales](#retrieve-employees-in-finance-or-sales)
+   * [Retrieve all employees not in IT](#retrieve-all-employees-not-in-it)
+   * [Summary](#summary)
+
 ## Retrieve after hours failed login attempts
 
 A potential security incident occurred after business hours (18:00). 
